@@ -1,0 +1,118 @@
+Wed Jan 24 14:38:27 2007
+   FTP server start
+Wed Jan 24 14:38:17 2007
+   FTP server start
+Wed Jan 24 14:38:20 2007
+   IP:192.168.3.77  PORT:57844 connected server
+Wed Jan 24 14:38:24 2007
+   IP:192.168.3.77  PORT:57844 Quit 
+Wed Jan 24 14:38:30 2007
+   IP:192.168.3.77  PORT:57845 connected server
+Wed Jan 24 14:38:31 2007
+   IP:192.168.3.77  PORT:57845 Quit 
+Wed Jan 24 14:38:33 2007
+   IP:192.168.3.77  PORT:57846 connected server
+Wed Jan 24 14:38:34 2007
+   IP:192.168.3.77  PORT:57846 Quit 
+Mon Feb 28 17:08:46 2011
+   FTP server start
+Mon Feb 28 17:09:35 2011
+   IP:192.168.0.77  PORT:41099 connected server
+Mon Feb 28 17:10:09 2011
+   IP:192.168.0.77  PORT:41099 Download readme.txt 
+Mon Feb 28 17:10:12 2011
+   IP:192.168.0.77  PORT:41099 Quit 
+Mon Feb 28 17:50:56 2011
+   FTP server start
+Mon Feb 28 17:50:59 2011
+   IP:192.168.0.77  PORT:44042 connected server
+Mon Feb 28 17:51:03 2011
+   IP:192.168.0.77  PORT:44043 connected server
+Mon Feb 28 17:51:13 2011
+   IP:192.168.0.77  PORT:44042 Quit 
+Mon Feb 28 17:51:16 2011
+   IP:192.168.0.77  PORT:44043 Quit 
+Mon Feb 28 17:51:19 2011
+   IP:192.168.0.77  PORT:44044 connected server
+Mon Feb 28 17:51:25 2011
+   IP:192.168.0.77  PORT:44045 connected server
+Mon Feb 28 17:51:28 2011
+   IP:192.168.0.77  PORT:44045 Quit 
+Mon Feb 28 17:51:30 2011
+   IP:192.168.0.77  PORT:44044 Quit 
+Mon Feb 28 17:51:33 2011
+   IP:192.168.0.77  PORT:44046 connected server
+Mon Feb 28 17:51:36 2011
+   IP:192.168.0.77  PORT:44047 connected server
+Mon Feb 28 17:51:40 2011
+   IP:192.168.0.77  PORT:44046 Quit 
+Mon Feb 28 17:51:42 2011
+   IP:192.168.0.77  PORT:44047 Quit 
+Mon Feb 28 21:30:47 2011
+   FTP server start
+Mon Feb 28 21:33:08 2011
+   FTP server start
+Mon Feb 28 21:33:20 2011
+   IP:192.168.0.77  PORT:54339 connected server
+Mon Feb 28 21:35:38 2011
+   IP:192.168.0.77  PORT:54339 Quit 
+Mon Feb 28 21:35:56 2011
+   IP:192.168.0.77  PORT:60976 connected server
+Mon Feb 28 21:36:06 2011
+   IP:192.168.0.77  PORT:60976 Quit 
+Mon Feb 28 21:40:20 2011
+   FTP server start
+Mon Feb 28 21:40:28 2011
+   IP:192.168.0.77  PORT:31401 connected server
+Mon Feb 28 21:44:23 2011
+   IP:192.168.0.77  PORT:34021 connected server
+Mon Feb 28 21:45:03 2011
+   IP:192.168.0.77  PORT:34021 Quit 
+Mon Feb 28 21:53:29 2011
+   FTP server start
+Mon Feb 28 21:53:35 2011
+   IP:192.168.0.77  PORT:25306 connected server
+Mon Feb 28 21:53:38 2011
+   IP:192.168.0.77  PORT:25306fds***fdsMon Feb 28 21:53:39 2011
+   IP:192.168.0.77  PORT:25306fds***fdsMon Feb 28 21:53:40 2011
+   IP:192.168.0.77  PORT:25306fsdfs***fsMon Feb 28 21:53:40 2011
+   IP:192.168.0.77  PORT:25306 Quit 
+Mon Feb 28 21:54:33 2011
+   IP:192.168.0.77  PORT:64391 connected server
+Mon Feb 28 21:54:40 2011
+   IP:192.168.0.77  PORT:64391ftpadmin***ftpadminMon Feb 28 21:54:41 2011
+   IP:192.168.0.77  PORT:64391login right
+Mon Feb 28 21:54:44 2011
+   IP:192.168.0.77  PORT:64391 Quit 
+Mon Feb 28 21:56:47 2011
+   FTP server start
+Mon Feb 28 21:56:55 2011
+   IP:192.168.0.77  PORT:64392 connected server
+Mon Feb 28 21:56:59 2011
+   IP:192.168.0.77  PORT:64392fsda***fdsa attempt login 
+Mon Feb 28 21:57:03 2011
+   IP:192.168.0.77  PORT:64392fdsa***fdsa attempt login 
+Mon Feb 28 21:57:10 2011
+   IP:192.168.0.77  PORT:64392ftpadmin***ftpadmin attempt login 
+Mon Feb 28 21:57:10 2011
+   IP:192.168.0.77  PORT:64392login right
+Mon Feb 28 21:57:12 2011
+   IP:192.168.0.77  PORT:64392 Quit 
+Mon Feb 28 21:58:38 2011
+   FTP server start
+Mon Feb 28 21:58:44 2011
+   IP:192.168.0.77  PORT:64393    connected server
+Mon Feb 28 21:58:49 2011
+   IP:192.168.0.77  PORT:64393   fdsa***fds attempt login 
+Mon Feb 28 21:58:52 2011
+   IP:192.168.0.77  PORT:64393   fdsa***www attempt login 
+Mon Feb 28 21:59:00 2011
+   IP:192.168.0.77  PORT:64393   ftpadmin***]ftpadmin attempt login 
+Mon Feb 28 21:59:00 2011
+   IP:192.168.0.77  PORT:64393    Quit 
+Mon Feb 28 21:59:04 2011
+   IP:192.168.0.77  PORT:46325    connected server
+Mon Feb 28 21:59:13 2011
+   IP:192.168.0.77  PORT:46325   ftpadmin***ftpadmin attempt login 
+Mon Feb 28 21:59:13 2011
+   IP:192.168.0.77  PORT:46325   login right

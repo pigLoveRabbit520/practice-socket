@@ -1,0 +1,36 @@
+#ifndef _CLIENTINFO_H_
+#define _CLIENTINFO_H_
+
+#include <stdio.h>
+#include <string.h>
+#include <pthread.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <stdlib.h>
+#include <assert.h>
+
+struct clientinfo
+{
+	struct clientinfo * next;
+	int id;
+	int client_socket;
+	pthread_t ptid;
+	struct sockaddr addr;
+	struct clientinfo * prior;
+	
+};
+
+struct stack
+{
+	struct clientinfo * bottom;
+	struct clientinfo * top;
+	int count;
+};
+
+int init_stack(struct stack ** head);
+int push_stack(struct stack * const head,struct clientinfo * node);
+struct clientinfo * chk_stack(const struct stack * const head,const struct clientinfo * node);
+int pop_stack(struct stack * const head,const struct clientinfo * node);
+int traver_stack(const struct stack * const head);
+int clr_stack(struct stack ** head);
+#endif
