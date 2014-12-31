@@ -33,7 +33,7 @@ $(OBJECTS) : %.o : %.c
 	
 
 $(TARGETS02) : $(OBJECTS02)
-	$(cc)  $^ $(CFLAGS) -o $@ -lphread -lmysqlclient
+	$(cc)  $^ $(CFLAGS) -o $@ -lpthread -lmysqlclient
 $(OBJECTS) : %.o : %.c
 	$(cc) $(CFLAGS) -c $< -I$(INC_DIR) 
 
